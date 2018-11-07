@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">lab3_Alternativeresource</string>
+    <string name="message">How are you!</string>
+</resources>
